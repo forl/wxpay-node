@@ -1,0 +1,30 @@
+{
+  "name": "wxpay-node",
+  "version": "0.0.1",
+  "description": "Wechat payment SDK for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/forl/wxpay-node.git"
+  },
+  "keywords": [
+    "wxpay",
+    "wechat",
+    "微信支付"
+  ],
+  "author": "Forl Yang <forl.yang@gmail.com> (blog.iforl.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/forl/wxpay-node/issues"
+  },
+  "homepage": "https://github.com/forl/wxpay-node#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "coveralls": "^2.11.15",
+    "istanbul": "^0.4.5",
+    "mocha": "^3.2.0"
+  }
+}
